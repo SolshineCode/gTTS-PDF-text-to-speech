@@ -13,7 +13,7 @@ license: apache-2.0
 Hugging Face Spaces Demo (Streamlit) available here:
 https://huggingface.co/spaces/Solshine/gTTS-PDF-text-to-speech
 
-##    Hear Ye, Hear Ye! The gTTS-PDF-Text-to-Speech Odyssey Awaits!  
+##    Hear Ye, Hear Ye! The gTTS-PDF-Text-to-Speech Accessibility Odyssey Awaits!  
 
 Welcome, travelers of the digital realm, to the grand expedition of **gTTS-PDF-text-to-speech**! We're here to vanquish the tyranny of silent PDFs and transform those pesky documents into a delightful audio adventure for your ears.
 
@@ -21,11 +21,11 @@ This open-source project, available to use now on Hugging Face Spaces (link abov
 
 * **PDF Slayer: ️**  Conquer those PDFs!  Upload your document and choose the number of pages you wish to hear spoken aloud. Lean back, relax, and let the "soothing" tones of the Google Text-to-Speech engine (gTTS) guide you through the text. 
 
-* **Text Transmuter:  🪄** Got some text lying around? Don't let it gather dust! Paste it in the chat or type it directly, and witness the magic! Our text-to-speech wizard will weave its sonic spell, bringing your words to life. 
+* **Text Transmuter:  🪄** Got some text you want spoken? Don't let it gather dust! Paste it in the chat or type it directly, and witness the magic! Our text-to-speech wizard will weave its sonic spell, bringing your words to life. 
 
 **But wait, there's more!**  This is just the beginning of our quest. We envision a future where this project embraces the power of **neural networks** to create even more natural-sounding voices.  
 
-This is about more than convenience; it's about **accessibility**.  We strive for a world where **neurodivergent folks**  have  a wealth of tools at their disposal,  empowering  them to  learn, work, and explore information  seamlessly.  Imagine using this app in  educational  settings,  professional environments, or even  listening to documents while driving!  The possibilities are endless! 
+This is about more than convenience; it's about **accessibility**.  We strive for a world where neurodivergent folks and those with accessibility needs have  a wealth of tools at their disposal,  empowering  them to  learn, work, and explore information  seamlessly.  Imagine using this app in  educational  settings,  professional environments, or even  listening to documents while driving!  The possibilities are endless! 
 
 **Ready to join the adventure?**  Here's a glimpse of the wondrous  **Streamlit** interface that awaits:
 
