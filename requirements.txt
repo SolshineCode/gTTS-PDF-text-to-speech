@@ -1,0 +1,4 @@
+gTTs
+pdfminer.six
+pymupdf
+PyPDF2
